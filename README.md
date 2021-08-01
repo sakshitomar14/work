@@ -56,3 +56,52 @@
     
 </body>
 </html>
+
+
+
+INDEX.CSS
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,400&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+p{
+    color:gray;
+
+}
+
+h1.main{
+    margin: 0px 105px;
+    background-color:#cecece;
+    text-align: center;
+}
+a{
+    color: black;
+    text-decoration-style: none;
+    
+}
+nav ul
+{
+    list-style-type: none;
+    text-align: center;
+    
+    
+}
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+    text-transform: uppercase;
+    
+    
+    
+}
+
+    
+section{
+    margin: 0px 105px;
+}
+
+    
+
+
+
